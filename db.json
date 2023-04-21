@@ -1,0 +1,46 @@
+{
+  "dogs": [
+    {
+      "name": "Dog 3",
+      "age": "250",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Dog 5",
+      "age": "400",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "name": "Dog 6",
+      "age": "550",
+      "place": "Mumbai",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "Dog 7",
+      "age": "750",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "name": "Dog 8",
+      "age": "150",
+      "place": "Mumbai",
+      "gender": "Male",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
